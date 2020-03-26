@@ -1,12 +1,12 @@
 
-@import url('https://fonts.googleapis.com/css?family=Spicy+Rice&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Bellota+Text&display=swap');
 
 html {
   font-size: 16px;
 }
 
 body {
-  font-family: "Arial", sans-serif;
+  font-family: "Arial",sans-serif;
   color: #222;
   line-height: 1.5;
 }
@@ -17,7 +17,7 @@ body {
 }
 
 h1, h2 {
-  font-family: 'Spicy Rice', cursive;
+  font-family: 'Bellota Text', cursive;
   font-weight: 900
 }
 
